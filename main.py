@@ -21,7 +21,7 @@ app.add_middleware(
 )
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
-openai.api_base = "https://api.groq.com/openai/v1"
+openai.api_base = "https://api.groq.com/openai/v1" # compound-beta-mini
 
 
 class MessageRequest(BaseModel):
