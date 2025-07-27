@@ -1,4 +1,4 @@
-```markdown
+
 # Furia API
 
 API que integra o modelo de IA `compound-beta-mini` da Groq, permitindo inferência rápida e gratuita com suporte a ferramentas como busca na web e execução de código Python. Além desse chatbot, você pode acessar a outra parte desse projeto [aqui](https://github.com/moreira-m98/portal-furia), um portal para acompanhar todas as informações sobre o time de CS da Fúria.
@@ -20,7 +20,7 @@ API que integra o modelo de IA `compound-beta-mini` da Groq, permitindo inferên
    ```bash
    git clone https://github.com/moreira-m98/furia-api.git
    cd furia-api
-   ```
+
 
 2. Instale as dependências:
 
